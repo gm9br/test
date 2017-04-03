@@ -4,30 +4,6 @@
   "parameters": {
         "name": {
             "value": "string"
-        },
-        "hostingPlanName": {
-            "value": "string"
-        },
-        "hostingEnvironment": {
-            "value": "string"
-        },
-        "location": {
-            "value": "string"
-        },
-        "sku": {
-            "value": "string"
-        },
-        "skuCode": {
-            "value": "string"
-        },
-        "workerSize": {
-            "value": "string"
-        },
-        "serverFarmResourceGroup": {
-            "value": "string"
-        },
-        "subscriptionId": {
-            "value": "string"
         }
   }
 }
